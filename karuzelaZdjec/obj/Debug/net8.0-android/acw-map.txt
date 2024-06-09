@@ -1,0 +1,3 @@
+karuzelaZdjec.MainActivity, karuzelaZdjec;crc6470107bc9001a5674.MainActivity
+karuzelaZdjec.MainActivity;crc6470107bc9001a5674.MainActivity
+karuzelazdjec.MainActivity;crc6470107bc9001a5674.MainActivity
